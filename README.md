@@ -16,6 +16,7 @@ These were the targets I had to meet:
 13) The navbar should always be at the top of the viewport
 14) Your product landing page should have at least one media query
 15) Your product landing page should utilize CSS flexbox at least once.
-<img width="960" alt="2023-02-23" src="https://user-images.githubusercontent.com/124333751/220803508-f4cb3cc0-2ff9-48e8-ba35-2a9434698abf.png">
-<img width="960" alt="2023-02-23 (4)" src="https://user-images.githubusercontent.com/124333751/220803526-f63aa280-10e9-429e-b7e4-eac981f8116a.png">
-<img width="960" alt="2023-02-23 (5)" src="https://user-images.githubusercontent.com/124333751/220803539-846c6029-ee1e-4f9f-af25-901fe1e1e8d6.png">
+
+<img width="960" alt="an image of what my product landing page looks like" src="https://user-images.githubusercontent.com/124333751/220806000-3a90b458-b975-43fc-aee0-c37df0f3b25a.png">
+<img width="960" alt="an image of what my product landing page looks like" src="https://user-images.githubusercontent.com/124333751/220803526-f63aa280-10e9-429e-b7e4-eac981f8116a.png">
+<img width="960" alt="an image of what my product landing page looks like" src="https://user-images.githubusercontent.com/124333751/220803539-846c6029-ee1e-4f9f-af25-901fe1e1e8d6.png">
